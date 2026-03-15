@@ -125,21 +125,3 @@ Menggunakan Supabase dengan tabel:
 - user_id (UUID)
 
 Data difilter berdasarkan user yang sedang login.
-
-# Dokumentasi Output
-
-## Tampilan Login
-
-
-
-## Tampilan Daftar Tempat Makan
-(Tambahkan Screenshot HomePage di sini)
-
-## Tampilan Tambah Data
-(Tambahkan Screenshot Form Tambah di sini)
-
-## Tampilan Edit Data
-(Tambahkan Screenshot Form Edit di sini)
-
-## Tampilan Dark Mode
-(Tambahkan Screenshot Dark Mode di sini)
