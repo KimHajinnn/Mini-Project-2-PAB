@@ -129,16 +129,16 @@ Data difilter berdasarkan user yang sedang login.
 # Dokumentasi Output
 
 ## Tampilan Login
-
+File Dokumentasi/Login.png
 
 ## Tampilan Daftar Tempat Makan
-/File Dokumentasi
+File Dokumentasi/Daftar Tempat Makan.png
 
 ## Tampilan Tambah Data
-(Tambahkan Screenshot Form Tambah di sini)
+File Dokumentasi/Tambah Data Tempat Makan.png
 
 ## Tampilan Edit Data
-(Tambahkan Screenshot Form Edit di sini)
+File Dokumentasi/Edit Data Tempat Makan.png
 
 ## Tampilan Dark Mode
-(Tambahkan Screenshot Dark Mode di sini)
+File Dokumentasi/Fitur Dark Mode.png
